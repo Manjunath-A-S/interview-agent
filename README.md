@@ -1,8 +1,5 @@
 # 🎤 AI Interview Agent
 
-Built for the **Rooman AI Challenge — 24-Hour AI Agent Challenge**
-(Category 1 — HR & Recruitment: *Interview Agent*).
-
 An AI agent that conducts a structured mock interview: it generates
 role-specific questions, asks them one at a time, scores every answer with
 constructive feedback, and produces a final hiring evaluation.
